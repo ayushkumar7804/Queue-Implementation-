@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-#define SIZE 5 // maximum size of the queue
+#define SIZE 5 
 
 class Queue {
     int arr[SIZE]; 
