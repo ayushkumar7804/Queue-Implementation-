@@ -64,6 +64,9 @@ int main() {
 }
 
 /*Output 
+10 inserted into queue.
+20 inserted into queue.
+30 inserted into queue.
 Queue elements: 10 20 30
 10 removed from queue.
 Queue elements: 20 30
